@@ -1,6 +1,6 @@
 ## welcome to git
 
--this is coming from 'dev-aarish'
--hello im adding from feature branch
+-yo, james here
+-im adding this from 'dev-jsm'
 
 I changed the name
