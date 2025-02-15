@@ -1,5 +1,4 @@
-## Hello git
+## heyo everyone,welcome to by guide
 
--hello im adding from feature branch
-
-I changed the name
+-yo, james here
+-im adding this from 'dev-jsm'
